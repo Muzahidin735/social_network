@@ -35,6 +35,8 @@ This project focuses on secure authentication, clean API design, and proper fron
 git clone https://github.com/Muzahidin735/social_network.git
 cd social_network
 
+---
+
 ### 2️⃣ Backend Setup (Django)
 ```bash
 python -m venv my_env
